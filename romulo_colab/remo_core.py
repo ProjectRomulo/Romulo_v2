@@ -95,3 +95,6 @@ def registrar_interaccion(texto, emocion, hablante, memoria):
         print(f"Error al registrar interaccion, la memoria no esta inicializada correctamente: {e}")
     except Exception as e:
         print(f"Error al registrar la interaccion: {e}")
+
+# Prueba desde colab
+# Prueba desde colab
